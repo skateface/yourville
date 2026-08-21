@@ -6,7 +6,16 @@
     </linearGradient>
   </defs>
   <rect width="1200" height="630" fill="url(#bg)"/>
-  <path d="M600 160 L760 290 H710 V450 H650 V350 H550 V450 H490 V290 H440 Z" fill="#38302E"/>
-  <text x="600" y="540" font-family="Georgia, serif" font-size="72" font-weight="600" fill="#38302E" text-anchor="middle">Yourville</text>
-  <text x="600" y="585" font-family="Helvetica, Arial, sans-serif" font-size="28" fill="#6F6866" text-anchor="middle">Find your town.</text>
+  <g transform="translate(450,130) scale(1.5)">
+    <path d="M138 40h18v42h-18z" fill="#6F6866"/>
+    <g fill="none" stroke="#38302E" stroke-width="14">
+      <path d="M26 96 100 30l74 66" stroke-linejoin="round"/>
+      <rect x="44" y="94" width="112" height="76" rx="6"/>
+    </g>
+    <circle cx="100" cy="132" r="24" fill="#B0714C"/>
+  </g>
+  <text x="600" y="545" font-family="Newsreader, Georgia, serif" font-size="72" letter-spacing="-1.5" text-anchor="middle">
+    <tspan fill="#788585">your</tspan><tspan fill="#38302E" font-weight="600">ville</tspan>
+  </text>
+  <text x="600" y="590" font-family="Helvetica, Arial, sans-serif" font-size="26" fill="#6F6866" text-anchor="middle">Find your town.</text>
 </svg>
