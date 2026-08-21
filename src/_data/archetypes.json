@@ -1,0 +1,130 @@
+[
+  {
+    "slug": "remote-workers",
+    "name": "The Remote Work Haven",
+    "emoji": "💻",
+    "tagline": "Fast wifi, good coffee, zero commute.",
+    "description": "Towns that figured out early that a laptop and a decent signal can replace a skyscraper. Expect coworking spaces in old storefronts, a coffee shop that knows your order, and enough outdoor access that logging off actually feels like something.",
+    "traits": {
+      "walkability": 3,
+      "natureAccess": 4,
+      "nightlife": 2,
+      "remoteWorkFriendly": 5,
+      "paceOfLife": 4
+    },
+    "sampleTowns": ["Bozeman, MT", "Chattanooga, TN", "Bend, OR", "Fayetteville, AR"],
+    "guide": "/guides/best-small-towns-for-remote-workers/"
+  },
+  {
+    "slug": "retirees",
+    "name": "The Retirement Retreat",
+    "emoji": "🌅",
+    "tagline": "Nowhere to be, and all day to get there.",
+    "description": "Slower mornings, easier parking, neighbors who wave. These towns trade ambition for ease — walkable enough for a cane or a golf cart, quiet enough that the loudest thing on the block is a lawnmower.",
+    "traits": {
+      "walkability": 3,
+      "natureAccess": 3,
+      "nightlife": 1,
+      "remoteWorkFriendly": 2,
+      "paceOfLife": 5
+    },
+    "sampleTowns": ["Beaufort, SC", "Prescott, AZ", "Hendersonville, NC", "Fredericksburg, TX"],
+    "guide": "/guides/best-small-towns-for-retirees/"
+  },
+  {
+    "slug": "foodies",
+    "name": "The Foodie's Table",
+    "emoji": "🍽️",
+    "tagline": "One traffic light, three restaurants worth a drive.",
+    "description": "Disproportionately good food for their size, usually because a chef got tired of the city and a farmer had land to spare. The kind of place where the tasting menu changes with what came in that morning.",
+    "traits": {
+      "walkability": 4,
+      "natureAccess": 3,
+      "nightlife": 3,
+      "remoteWorkFriendly": 3,
+      "paceOfLife": 3
+    },
+    "sampleTowns": ["Healdsburg, CA", "Hood River, OR", "Oxford, MS", "Lambertville, NJ"],
+    "guide": "/guides/best-small-towns-for-foodies/"
+  },
+  {
+    "slug": "beach-lovers",
+    "name": "The Coastal Charmer",
+    "emoji": "🌊",
+    "tagline": "Salt air, sandy floors, tide charts on the fridge.",
+    "description": "Built around a shoreline and proud of it. Life runs on tide charts and sunset timing, the architecture leans toward shingles and shutters, and everyone owns exactly one nice sweater for the off-season.",
+    "traits": {
+      "walkability": 3,
+      "natureAccess": 5,
+      "nightlife": 3,
+      "remoteWorkFriendly": 2,
+      "paceOfLife": 4
+    },
+    "sampleTowns": ["Rehoboth Beach, DE", "Carmel-by-the-Sea, CA", "Kennebunkport, ME", "Cannon Beach, OR"],
+    "guide": "/guides/best-small-towns-for-beach-lovers/"
+  },
+  {
+    "slug": "mountain-lovers",
+    "name": "The Mountain Hideaway",
+    "emoji": "⛰️",
+    "tagline": "Trailhead at the edge of town, cell signal optional.",
+    "description": "Elevation changes everything — the light, the pace, the size of your jacket collection. These towns exist because the mountains were worth building next to, and they still act like it.",
+    "traits": {
+      "walkability": 2,
+      "natureAccess": 5,
+      "nightlife": 2,
+      "remoteWorkFriendly": 3,
+      "paceOfLife": 4
+    },
+    "sampleTowns": ["Crested Butte, CO", "Jackson, WY", "Telluride, CO", "Boone, NC"],
+    "guide": "/guides/best-small-towns-for-mountain-lovers/"
+  },
+  {
+    "slug": "artists-makers",
+    "name": "The Creative Enclave",
+    "emoji": "🎨",
+    "tagline": "More galleries than stoplights.",
+    "description": "Somewhere along the way, artists found cheap rent and good light, and never left. Now the old feed store is a gallery, the diner hosts open mic on Thursdays, and the town's whole personality runs on what people make with their hands.",
+    "traits": {
+      "walkability": 3,
+      "natureAccess": 3,
+      "nightlife": 2,
+      "remoteWorkFriendly": 3,
+      "paceOfLife": 4
+    },
+    "sampleTowns": ["Marfa, TX", "Taos, NM", "Berea, KY", "New Hope, PA"],
+    "guide": "/guides/best-small-towns-for-artists-and-makers/"
+  },
+  {
+    "slug": "families",
+    "name": "The Family Hometown",
+    "emoji": "🏡",
+    "tagline": "Good schools, cul-de-sacs, everyone knows your kid's name.",
+    "description": "Built for the long haul — strong schools, safe streets, a Fourth of July parade that actually shuts down Main Street. The kind of place people move to on purpose and then never quite leave.",
+    "traits": {
+      "walkability": 3,
+      "natureAccess": 3,
+      "nightlife": 1,
+      "remoteWorkFriendly": 3,
+      "paceOfLife": 4
+    },
+    "sampleTowns": ["Hudson, OH", "Wake Forest, NC", "Zionsville, IN", "Concord, MA"],
+    "guide": "/guides/best-small-towns-for-families/"
+  },
+  {
+    "slug": "college-town",
+    "name": "College Town Energy",
+    "emoji": "🏈",
+    "tagline": "Twenty thousand students and a stadium you can hear from downtown.",
+    "description": "A permanent undercurrent of youth keeps these towns loud, cheap to eat in, and never quite finished changing. Great bookstores, better bars, and a fall Saturday that reorders the whole town's schedule.",
+    "traits": {
+      "walkability": 5,
+      "natureAccess": 2,
+      "nightlife": 5,
+      "remoteWorkFriendly": 3,
+      "paceOfLife": 2
+    },
+    "sampleTowns": ["Athens, GA", "Iowa City, IA", "Oxford, OH", "Ithaca, NY"],
+    "guide": "/guides/best-small-towns-for-college-town-energy/"
+  }
+]

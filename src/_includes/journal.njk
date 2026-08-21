@@ -1,0 +1,18 @@
+---
+layout: base.njk
+ogType: article
+---
+<div class="article-header">
+  <div class="container">
+    <span class="pill">Journal</span>
+    <h1>{{ title }}</h1>
+    <p class="article-meta">{{ date | readableDate }}</p>
+  </div>
+</div>
+<section>
+  <div class="container">
+    <article class="prose">
+      {{ content | safe }}
+    </article>
+  </div>
+</section>

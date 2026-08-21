@@ -1,0 +1,31 @@
+---
+layout: base.njk
+title: Compare Small Town Vibes
+description: Put two or three small-town archetypes side by side — walkability, nature access, nightlife, remote-work friendliness, and pace of life.
+permalink: /compare/
+---
+<div class="article-header">
+  <div class="container">
+    <h1>Compare town vibes</h1>
+    <p class="article-meta">Pick two or three archetypes. These are editorial calls, not hard data — a way to think about trade-offs, not a scorecard.</p>
+  </div>
+</div>
+
+<section>
+  <div class="container">
+    <div class="compare-picker">
+      <select id="pick-a"></select>
+      <select id="pick-b"></select>
+      <select id="pick-c">
+        <option value="">(optional third)</option>
+      </select>
+    </div>
+
+    <div style="overflow-x:auto;">
+      <table class="compare-table" id="compare-table"></table>
+    </div>
+  </div>
+</section>
+
+<script id="archetype-data" type="application/json">{{ archetypes | dump | safe }}</script>
+<script src="/js/compare.js" defer></script>

@@ -1,0 +1,19 @@
+---
+layout: base.njk
+ogType: article
+---
+{% set archetype = archetypes | findArchetype(archetypeSlug) %}
+<div class="article-header">
+  <div class="container">
+    {% if archetype %}<span class="pill">{{ archetype.emoji }} {{ archetype.name }}</span>{% endif %}
+    <h1>{{ title }}</h1>
+    <p class="article-meta">A Yourville guide{% if archetype %} · matches {{ archetype.name }}{% endif %}</p>
+  </div>
+</div>
+<section>
+  <div class="container">
+    <article class="prose">
+      {{ content | safe }}
+    </article>
+  </div>
+</section>

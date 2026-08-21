@@ -1,0 +1,48 @@
+---
+layout: base.njk
+title: Which Small Town Matches Your Vibe?
+description: Answer six quick questions and we'll match you to one of eight small-town archetypes — then show you real towns like it.
+permalink: /quiz/
+---
+<div class="article-header">
+  <div class="container">
+    <h1>Which small town matches your vibe?</h1>
+    <p class="article-meta">Six questions. No email required. Just an honest match.</p>
+  </div>
+</div>
+
+<section>
+  <div class="container">
+    <div style="max-width: 40rem; margin: 0 auto;">
+      <form id="quiz-form">
+        {% for q in quiz %}
+        {% set qIndex = loop.index0 %}
+        <div class="quiz-question">
+          <p class="quiz-progress">Question {{ loop.index }} of {{ quiz.length }}</p>
+          <h3>{{ q.question }}</h3>
+          <div class="quiz-options">
+            {% for opt in q.options %}
+            <label>
+              <input type="radio" name="q{{ qIndex }}" value='{{ opt.points | dump }}' required>
+              {{ opt.label }}
+            </label>
+            {% endfor %}
+          </div>
+        </div>
+        {% endfor %}
+        <button class="btn btn-primary" type="submit">See my town</button>
+      </form>
+
+      <div id="quiz-result">
+        <span class="emoji" id="result-emoji"></span>
+        <h2 id="result-name"></h2>
+        <p id="result-tagline" class="tagline"></p>
+        <p id="result-description"></p>
+        <a class="btn btn-primary" id="result-link" href="#">Read the full guide →</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<script id="archetype-data" type="application/json">{{ archetypes | dump | safe }}</script>
+<script src="/js/quiz.js" defer></script>

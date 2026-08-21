@@ -1,0 +1,78 @@
+[
+  {
+    "question": "Pick a Saturday morning:",
+    "options": [
+      { "label": "Laptop open at the coffee shop — the wifi's non-negotiable", "points": { "remote-workers": 3 } },
+      { "label": "Slow start, second cup of coffee on the porch", "points": { "retirees": 3 } },
+      { "label": "Farmers market, planning tonight's dinner", "points": { "foodies": 3 } },
+      { "label": "Already at the trailhead before sunrise", "points": { "mountain-lovers": 3 } },
+      { "label": "Feet in the sand, tide's coming in", "points": { "beach-lovers": 3 } },
+      { "label": "Hands full of clay or paint in the studio", "points": { "artists-makers": 3 } }
+    ]
+  },
+  {
+    "question": "Friday night looks like:",
+    "options": [
+      { "label": "Local brewery — everyone knows everyone", "points": { "remote-workers": 1, "families": 1 } },
+      { "label": "In bed by nine, book in hand", "points": { "retirees": 3 } },
+      { "label": "The one restaurant worth driving for", "points": { "foodies": 3 } },
+      { "label": "Campfire, no cell signal, perfect", "points": { "mountain-lovers": 3 } },
+      { "label": "Boardwalk, ice cream, sunset", "points": { "beach-lovers": 3 } },
+      { "label": "Gallery opening or open mic night", "points": { "artists-makers": 3 } },
+      { "label": "Family game night, whole neighborhood's invited", "points": { "families": 3 } },
+      { "label": "Packed stadium, deafening student section", "points": { "college-town": 3 } }
+    ]
+  },
+  {
+    "question": "What's non-negotiable in your next town?",
+    "options": [
+      { "label": "Reliable high-speed internet", "points": { "remote-workers": 3 } },
+      { "label": "Good healthcare nearby, low-stress pace", "points": { "retirees": 3 } },
+      { "label": "A restaurant scene that surprises you", "points": { "foodies": 3 } },
+      { "label": "Trails or peaks out the back door", "points": { "mountain-lovers": 3 } },
+      { "label": "Water you can see, smell, or hear", "points": { "beach-lovers": 3 } },
+      { "label": "A community of makers and weirdos", "points": { "artists-makers": 3 } },
+      { "label": "Great public schools", "points": { "families": 3 } },
+      { "label": "Energy — something's always happening", "points": { "college-town": 3 } }
+    ]
+  },
+  {
+    "question": "Your dream weekend trip is to:",
+    "options": [
+      { "label": "Wherever has the best coworking cafe", "points": { "remote-workers": 2 } },
+      { "label": "Somewhere warm and unhurried", "points": { "retirees": 2 } },
+      { "label": "A food festival two states over", "points": { "foodies": 2 } },
+      { "label": "A ski town or a national park", "points": { "mountain-lovers": 2 } },
+      { "label": "A beach you've never seen before", "points": { "beach-lovers": 2 } },
+      { "label": "An arts fair or a maker's market", "points": { "artists-makers": 2 } },
+      { "label": "A theme park with the whole family", "points": { "families": 2 } },
+      { "label": "Homecoming weekend at your alma mater", "points": { "college-town": 2 } }
+    ]
+  },
+  {
+    "question": "Pick a soundtrack for your town:",
+    "options": [
+      { "label": "A podcast on noise-cancelling headphones", "points": { "remote-workers": 2 } },
+      { "label": "Something slow — maybe a porch guitar", "points": { "retirees": 2 } },
+      { "label": "Kitchen clatter and dinner conversation", "points": { "foodies": 2 } },
+      { "label": "Wind through the pines", "points": { "mountain-lovers": 2 } },
+      { "label": "Waves and gulls", "points": { "beach-lovers": 2 } },
+      { "label": "Vinyl at an open mic", "points": { "artists-makers": 2 } },
+      { "label": "Cul-de-sac kids and lawnmowers", "points": { "families": 2 } },
+      { "label": "A marching band on Saturday", "points": { "college-town": 2 } }
+    ]
+  },
+  {
+    "question": "One word for the life you want:",
+    "options": [
+      { "label": "Flexible", "points": { "remote-workers": 2 } },
+      { "label": "Peaceful", "points": { "retirees": 2 } },
+      { "label": "Delicious", "points": { "foodies": 2 } },
+      { "label": "Wild", "points": { "mountain-lovers": 2 } },
+      { "label": "Breezy", "points": { "beach-lovers": 2 } },
+      { "label": "Inspired", "points": { "artists-makers": 2 } },
+      { "label": "Rooted", "points": { "families": 2 } },
+      { "label": "Electric", "points": { "college-town": 2 } }
+    ]
+  }
+]
