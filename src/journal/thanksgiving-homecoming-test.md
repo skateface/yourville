@@ -1,0 +1,16 @@
+---
+layout: journal.njk
+title: What Coming Home for Thanksgiving Actually Tells You About a Small Town
+description: A holiday visit to your hometown is a strange kind of research trip — you already know the place, except you don't, not anymore.
+date: 2026-11-17
+---
+
+Every year around this time, a specific kind of visit happens that doesn't get talked about as research, even though it kind of is. People who grew up somewhere small go back for a few days over Thanksgiving, stay in their childhood bedroom or the pull-out couch, and spend the long weekend seeing a town they think they already know — except they're seeing it with a different set of eyes than the ones they left with.
+
+That gap is the useful part. A kid who grew up somewhere has no comparison point; it's just where you're from. An adult coming back after a few years away, a few other towns lived in, a few more opinions about what makes a place work, notices things that never registered before. Which storefronts on the old main strip have turned over, and into what. Whether the diner you went to after every game is still there, still full, still run by the same family, or quietly became something else. Whether your parents' neighbors are the same ones, and whether that reads as stability or as a town nobody new is choosing to move into.
+
+The conversations tell you almost as much as the walk around town does. Catching up with a friend who stayed turns up, without anyone intending it to, whether they stayed because the town still works for the life they want or because leaving never quite happened. Ask what's new since last year and you'll get either an actual answer — a restaurant, a trail, a brewery in the old feed store — or a shrug, which is its own kind of answer. None of this shows up in a listing or a subreddit. It's the version of [checking the local Facebook group](/journal/what-a-towns-facebook-group-tells-you/) that you can only do in person, once a year, with people who have no reason to perform for you.
+
+It cuts in different directions depending on what you're actually weighing. If you've been circling the idea of moving back — closer to aging parents, away from a city that's stopped paying off, back to [somewhere boring on purpose](/journal/the-case-for-moving-somewhere-boring/) — the holiday visit is the one time a year you get an honest, unstaged look at what daily life there would actually be, rather than the version memory tends to hand you. If you're not considering it at all, it's still worth noticing what's changed, because a hometown that's visibly emptying out or visibly finding a second act is one of the plainer signs of which way a whole region is heading, well before any of that makes it into a headline.
+
+It won't tell you everything — four days with family obligations stacked on top is not the same as actually living somewhere, and [a real trial run](/journal/how-to-actually-visit-before-you-move/) means more than a holiday weekend ever will. But it's a free data point most people already have and don't think to use. Before you leave, it's worth asking honestly whether the place you're flying or driving back to feels more like home than the one you're flying or driving away from — and if you're curious what that actually says about the kind of town you're drawn to, [the quiz](/quiz/) is a quick way to put a name to it.
